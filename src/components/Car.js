@@ -1,6 +1,6 @@
 import React from 'react'
 import cars from '../cars.json'
-// import material ui components here //
+// import MUI components here //
 // Container, Paper, Chip //
 
 const Car = (props) => {
