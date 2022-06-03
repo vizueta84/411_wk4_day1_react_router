@@ -9,7 +9,7 @@ Remember to export the component at the end
 */
 
 import React from 'react'
-import { Switch, Route } from 'react-router'
+import { Routes, Route } from 'react-router'
 // Write component imports here //
 
 
