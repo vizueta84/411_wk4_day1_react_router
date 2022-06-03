@@ -1,5 +1,7 @@
 import React from 'react'
 import cars from '../cars.json'
+// Import {useParams} from "react-router-dom" here //
+
 // import MUI components here //
 // Container, Paper, Chip //
 
